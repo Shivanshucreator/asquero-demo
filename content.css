@@ -1,0 +1,56 @@
+.content-view{
+  margin-top: 150px;
+  height: auto;
+}
+
+.content-heading{
+  text-align: center;
+  margin-left: 430px;
+}
+
+.content-gap{
+  height: 20px;
+  width: 100%;
+}
+
+.logos{
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 60px;
+  width: 60px;
+}
+
+.content-python{
+  height: 80px;
+  width: 100%;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px #d8d5d7,
+             -5px -5px 10px #ffffff;
+}
+
+.content-python:hover {
+  box-shadow:  41px 41px 82px #b2b0b1,
+             -41px -41px 82px #ffffff
+}
+
+
+
+
+
+
+.course-name{
+
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+
+.row-2{
+  margin-top: 25px;
+}
+
+
+.mid-row{
+  margin-left: 15px;
+}

@@ -1,0 +1,21 @@
+.footer{
+  margin-top: 200px;
+  height: 200px;
+  width:100%;
+}
+
+.footer-tag{
+  text-align: center;
+  font-size: 25px;
+}
+
+.fab-icons{
+  text-align: center;
+  font-size: 50px;
+  margin-left: 10px;
+}
+
+.footer-bottom{
+  text-align: center;
+  font-size: 15px;
+}

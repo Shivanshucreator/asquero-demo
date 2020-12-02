@@ -1,0 +1,15 @@
+.navbar{
+   background-color: white;
+  overflow: hidden;
+  margin: 0;
+  position: fixed;
+  height: 80px;
+  box-shadow:  41px 41px 33px #6d6c6d,
+             -41px -41px 33px #ffffff;
+}
+
+
+.brand-name {
+ margin-left: 105px;
+ font-size: 30px;
+}
